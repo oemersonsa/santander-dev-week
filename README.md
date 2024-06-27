@@ -40,3 +40,9 @@ classDiagram
   User "1" *-- "1" Card
   User "1" *-- "N" News
 ```
+
+### Links 
+
+####Swagger 
+ - https://santander-dev-week-production-def7.up.railway.app/swagger-ui/index.html
+
